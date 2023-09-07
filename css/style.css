@@ -1,0 +1,25 @@
+* {
+  font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+}
+
+h1 {
+  color: dodgerblue;
+  text-align: center;
+}
+
+h2 {
+  color: forestgreen;
+}
+
+.main-page ul {
+  margin: 100px auto;
+  width: 210px;
+}
+
+.main-page li {
+  color: orange;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}
+
